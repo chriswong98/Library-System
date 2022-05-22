@@ -23,7 +23,7 @@ Use Advanced Search
 
 ![image](https://user-images.githubusercontent.com/42562789/169703101-731c8de2-51c3-4ab5-a985-a089270f1972.png)
 
-Book Description Page
+Book Description & Reserve Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169704704-e867c8bb-ae18-4b34-af9f-f797a5c14840.png)
 
@@ -33,11 +33,11 @@ Book Description Page
 
 Reserved Book Page
 
-![image](https://user-images.githubusercontent.com/42562789/169705466-bd9cd2e0-7992-42b0-bda0-1362e4f896b1.png)
-
 ![image](https://user-images.githubusercontent.com/42562789/169705314-6dc94a89-e096-4274-b5b7-47dcde1537a6.png)
 
 Study Room Page
+
+![image](https://user-images.githubusercontent.com/42562789/169705466-bd9cd2e0-7992-42b0-bda0-1362e4f896b1.png)
 
 ![image](https://user-images.githubusercontent.com/42562789/169704967-0fbb46b8-4666-4dc9-a1fe-26a71214011f.png)
 
