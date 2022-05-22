@@ -1,5 +1,9 @@
 # ITP4506_1819_Project-master
-jquery, css, html, php
+Project objective:
+	Develop a library website for the students.
+	jQuery, HTML5, CSS, JavaScript, PHP, Bootstrap for building the website.
+	Implement functions including login, search for a book, borrowing a book, reserve a study room, etc. 
+
 
 
 Login Page:
