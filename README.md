@@ -20,10 +20,17 @@ Library Main Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169702607-b981230d-25fc-44d4-b14e-6c162a7aa789.png)
 
-Use Advanced Search
+Change font size function
+
+![image](https://user-images.githubusercontent.com/42562789/169706355-9c9add14-cd7b-4f68-9d24-1bc613f0bd4b.png)
+
+Filtering function
+
+![test](https://user-images.githubusercontent.com/42562789/169706284-fdd5738b-609c-4f78-b722-21f69fff8593.png)
+
+Advanced Search function
 
 ![image](https://user-images.githubusercontent.com/42562789/169703123-7b30f839-966d-4338-9707-835c33472b32.png)
-
 
 ![image](https://user-images.githubusercontent.com/42562789/169703101-731c8de2-51c3-4ab5-a985-a089270f1972.png)
 
