@@ -23,7 +23,7 @@ Use Advanced Search
 
 ![image](https://user-images.githubusercontent.com/42562789/169703101-731c8de2-51c3-4ab5-a985-a089270f1972.png)
 
-Book Page
+Book Description Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169704704-e867c8bb-ae18-4b34-af9f-f797a5c14840.png)
 
@@ -31,8 +31,21 @@ Book Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169704855-b4932887-91f7-4d84-aedf-17fe7d558ca0.png)
 
+Reserved Book Page
+
+![image](https://user-images.githubusercontent.com/42562789/169705466-bd9cd2e0-7992-42b0-bda0-1362e4f896b1.png)
+
+![image](https://user-images.githubusercontent.com/42562789/169705314-6dc94a89-e096-4274-b5b7-47dcde1537a6.png)
+
 Study Room Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169704967-0fbb46b8-4666-4dc9-a1fe-26a71214011f.png)
 
+Book List Page
+
+![image](https://user-images.githubusercontent.com/42562789/169705128-7f68b467-ae74-4252-bd08-a4f7ffddc8f5.png)
+
+Equiment Page
+
+![image](https://user-images.githubusercontent.com/42562789/169705183-2f821dbd-a590-4811-a476-0a6d7bcd771b.png)
 
