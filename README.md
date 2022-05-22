@@ -52,7 +52,7 @@ Study Room Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169704967-0fbb46b8-4666-4dc9-a1fe-26a71214011f.png)
 
-Book List Page
+Reserved Room Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169705128-7f68b467-ae74-4252-bd08-a4f7ffddc8f5.png)
 
