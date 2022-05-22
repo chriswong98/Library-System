@@ -12,7 +12,7 @@ Forgot Password Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169702574-222a8dd1-a975-478d-b76b-f45c5b13620a.png)
 
-Library Main Paage
+Library Main Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169702607-b981230d-25fc-44d4-b14e-6c162a7aa789.png)
 
@@ -22,4 +22,17 @@ Use Advanced Search
 
 
 ![image](https://user-images.githubusercontent.com/42562789/169703101-731c8de2-51c3-4ab5-a985-a089270f1972.png)
+
+Book Page
+
+![image](https://user-images.githubusercontent.com/42562789/169704704-e867c8bb-ae18-4b34-af9f-f797a5c14840.png)
+
+![image](https://user-images.githubusercontent.com/42562789/169704757-49e9683e-4756-4a53-89ef-33b6db2e09ed.png)
+
+![image](https://user-images.githubusercontent.com/42562789/169704855-b4932887-91f7-4d84-aedf-17fe7d558ca0.png)
+
+Study Room Page
+
+![image](https://user-images.githubusercontent.com/42562789/169704967-0fbb46b8-4666-4dc9-a1fe-26a71214011f.png)
+
 
