@@ -1,6 +1,6 @@
 # ITP4506_1819_Project-master
 Project objective:
-	Develop a library website for the students.
+	Develop a library website for the students, staff and alumni.
 	jQuery, HTML5, CSS, JavaScript, PHP, Bootstrap for building the website.
 	Implement functions including login, search for a book, borrowing a book, reserve a study room, etc. 
 
@@ -16,9 +16,20 @@ Forgot Password Page
 
 ![image](https://user-images.githubusercontent.com/42562789/169702574-222a8dd1-a975-478d-b76b-f45c5b13620a.png)
 
-Library Main Page
+Library Main Page for staff
 
-![image](https://user-images.githubusercontent.com/42562789/169702607-b981230d-25fc-44d4-b14e-6c162a7aa789.png)
+![image](https://user-images.githubusercontent.com/42562789/169706702-6f6b81cf-92cc-4824-9a6d-1b8091706ef5.png)
+
+Library Main Page for student
+
+![image](https://user-images.githubusercontent.com/42562789/169706725-742be65f-ffb5-4706-ae9b-a93e2c38473b.png)
+
+Library Main Page for alumni
+
+![image](https://user-images.githubusercontent.com/42562789/169706759-6cd8e895-eff4-4588-ab61-1ba514d7f736.png)
+
+![image](https://user-images.githubusercontent.com/42562789/169706768-8a9ff22c-53f3-4dd2-8f0f-e93454131713.png)
+
 
 Change font size function
 
